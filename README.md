@@ -8,7 +8,7 @@ Index closing price data from investing.com & NASDAQ
 
 [S&P Futures](https://www.investing.com/indices/us-spx-500-futures-historical-data)
 
-[Nikkei](https://www.investing.com/indices/nikkei-500-historical-data)
+[Nikkei](https://www.investing.com/indices/japan-ni225-historical-data)
 
 [FTSE](https://www.investing.com/indices/uk-100-historical-data)
 
