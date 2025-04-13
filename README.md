@@ -23,7 +23,7 @@ Index closing price data from investing.com & NASDAQ
 * Grading: "**Grading will be based on the creativity used in the approach taken and the justification provided in the report**. Individual grades will depend on level of participation in the team. Any obvious errors in terms of the code will be penalized. While it is important to get accurate predictions, that will not be the main focus."  
 
 ### Deliverables:
-* April 8: initial predictions for April 8-11 in CSV file
+~~* April 8: initial predictions for April 8-11 in CSV file~~
 
 * April 22: final predictions for April 22-25 as CSV file 
 
