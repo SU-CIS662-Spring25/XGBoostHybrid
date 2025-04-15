@@ -1,5 +1,7 @@
 # XGBoostHybrid
 
+[Report document](https://sumailsyr-my.sharepoint.com/:w:/r/personal/mshergil_syr_edu/Documents/CIS662-ML%20Group%206%20Project%20Report.docx?d=w5b6e1fd3cebd4d5e88382b22d78ae08f&csf=1&web=1&e=MEcMzK)
+
 Index closing price data from investing.com & NASDAQ
 
 [NASDAQ SPX](https://www.nasdaq.com/market-activity/index/spx/historical?page=1&rows_per_page=100000&timeline=y10)
@@ -27,4 +29,4 @@ Index closing price data from investing.com & NASDAQ
 
 * April 22: final predictions for April 22-25 as CSV file 
 
-* May 1: final predictions along with actual prices, project report PDF, Jupyter notebook output as PDF 
+* May 1: final predictions along with actual prices, project report PDF, Jupyter notebook output as PDF
